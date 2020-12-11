@@ -1,0 +1,19 @@
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\bin\Debug\DAL.dll
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\bin\Debug\DAL.pdb
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.dll
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.pdb
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\bin\Debug\DAL.dll
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\bin\Debug\DAL.pdb
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.dll
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.pdb
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\bin\Debug\DAL.dll
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\bin\Debug\DAL.pdb
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.dll
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.pdb
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\DAL\bin\Debug\DAL.dll.config

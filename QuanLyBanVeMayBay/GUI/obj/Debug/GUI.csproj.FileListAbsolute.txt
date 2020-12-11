@@ -1,0 +1,100 @@
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\GUI.exe.config
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\GUI.exe
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\GUI.pdb
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\BUL.dll
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\DAL.dll
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\BUL.pdb
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\DAL.pdb
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.BCNam.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.BCThang.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.DatVeCB.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.LichCB.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.Main.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.VeCB.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.exe
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.pdb
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ChiTietBCNam.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ChiTietBCThang.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.DanhSachSB.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.SanBayTG.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ChiTietCB.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemSB.resources
+C:\Users\an thien\Documents\GitHub\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemVe.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\GUI.exe.config
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\GUI.exe
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\GUI.pdb
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\BUL.dll
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\DAL.dll
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\BUL.pdb
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\DAL.pdb
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.BCNam.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.BCThang.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ChiTietBCNam.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ChiTietBCThang.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.DatVeCB.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.Main.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemSB.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.exe
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.pdb
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemLichCB.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemChiTietCB.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatVe.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatSB.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatChiTietCB.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatLichCB.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.BanVeCB.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemHangVe.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemHanhKhach.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatHanhKhach.resources
+C:\Users\lequo\Downloads\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.TraCuuHanhKhach.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\GUI.exe.config
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\GUI.exe
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\GUI.pdb
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\BUL.dll
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\DAL.dll
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\BUL.pdb
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\DAL.pdb
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatHanhKhach.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatVe.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ChiTietBCNam.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ChiTietBCThang.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatSB.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatChiTietCB.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.DatVeCB.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatLichCB.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.Main.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemChiTietCB.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemHangVe.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemHanhKhach.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemSB.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemLichCB.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.BanVeCB.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.TraCuuHanhKhach.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.exe
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.pdb
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.TraCuuVe.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.TraCuuChuyenBay.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\bin\Debug\DAL.dll.config
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatHangVe.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.TraCuuSanBay.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemBCThang.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatBaoCaoThang.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.ThemBCNam.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatBaoCaoNam.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatChiTietBaoCaoThang.resources
+C:\Users\lequo\Desktop\QuanLyBanVeMayBay\QuanLyBanVeMayBay\GUI\obj\Debug\GUI.CapNhatChiTietBaoCaoNam.resources
